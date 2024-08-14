@@ -1,0 +1,11 @@
+Power-Ups: 
+Progressive Power-Up (x4):Mushroom, Fire Flower, Super Leaf, P-Wing
+Frog Suit
+Hammer Suit
+Super Star
+Tanooki Suit
+
+Overworld Items:
+Jugem's Cloud
+Music Box
+Card Match Game
