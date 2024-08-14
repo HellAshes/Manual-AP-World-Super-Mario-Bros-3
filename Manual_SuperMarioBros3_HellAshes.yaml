@@ -1,0 +1,26 @@
+﻿---
+name: HellAshes
+description: Default Manual_SuperMarioBros3_HellAshes Template
+game: Manual_SuperMarioBros3_HellAshes
+requires:
+  version: 0.5.0
+Manual_SuperMarioBros3_HellAshes:
+  progression_balancing:
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0
+    normal: 50
+    extreme: 0
+  accessibility:
+    locations: 0
+    items: 50
+    minimal: 0
+  local_items: []
+  non_local_items: []
+  start_inventory: {}
+  start_hints: []
+  start_location_hints: []
+  exclude_locations: []
+  priority_locations: []
+  item_links: []
