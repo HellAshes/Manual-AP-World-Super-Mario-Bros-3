@@ -1,5 +1,7 @@
 Items:
 
+Grass Land Unlock (Given at the start)
+
 Desert Land Unlock
 
 Water Land Unlock
